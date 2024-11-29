@@ -1,1 +1,2 @@
-print('Congratulations on running this script!!')
+def say_hi():
+    print('Congratulations on running this script!!')
